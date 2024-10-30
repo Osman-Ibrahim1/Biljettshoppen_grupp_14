@@ -256,7 +256,6 @@ namespace Biljettshopen
                     default:
                         Console.WriteLine("Ogiltigt val, försök igen.");
 
-                        Console.WriteLine("jag testar bara om det funkar.");
 
 
                         break;
